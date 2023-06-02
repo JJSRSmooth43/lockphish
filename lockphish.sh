@@ -1,4 +1,4 @@
-trap 'printf "\n";stop' 2
+echo ""trap 'printf "\n";stop' 2
 
 banner() {
 function print_centered {
